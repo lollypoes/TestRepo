@@ -1,3 +1,2 @@
-﻿  fsjklfjlaskfsa.cpp
-c:\users\lolly\documents\visual studio 2015\projects\version control test\version control test\fsjklfjlaskfsa.cpp(3): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-c:\users\lolly\documents\visual studio 2015\projects\version control test\version control test\fsjklfjlaskfsa.cpp(3): error C2146: syntax error: missing ';' before identifier 'jdfsa'
+﻿  Main.cpp
+  Version Control test.vcxproj -> c:\users\lolly\documents\visual studio 2015\Projects\Version Control test\Debug\Version Control test.exe
